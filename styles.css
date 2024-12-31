@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background-color: rgb(27, 27, 50);
+    text-align: start;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  button {
+    cursor: pointer;
+    background-color: rgb(59, 59, 79);
+    border: 2px solid white;
+    border-radius: 4px;
+    color: white;
+  }
+  
+  input {
+    background-color: rgb(10, 10, 35);
+    color: white;
+    border: 1px solid rgb(59, 59, 79);
+  }
+  
+  .bold {
+    font-weight: bold;
+    display: inline;
+    padding: 10px;
+    background-color: #fff;
+    color: black;
+    border-radius: 5px;
+  }
